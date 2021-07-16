@@ -9,6 +9,5 @@ document.querySelector('#validation-input').addEventListener('change', e => {
         e.target.classList.add('invalid');
         e.target.classList.remove('valid');
     }
-    
-}
+    }
 );
